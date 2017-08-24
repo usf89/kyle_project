@@ -1,0 +1,2 @@
+cats <- read.csv(file = "data/feline-data.csv")
+cats

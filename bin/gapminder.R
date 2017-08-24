@@ -1,0 +1,8 @@
+library(readr)
+gapminder_FiveYearData <- read.csv("data/gapminder-FiveYearData.csv")
+nrow(gapminder_FiveYearData)
+str(gapminder_FiveYearData)
+ncol(gapminder_FiveYearData)
+head(gapminder_FiveYearData)
+tail(gapminder_FiveYearData)
+head10(gapminder_FiveYearData)

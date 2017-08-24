@@ -1,0 +1,3 @@
+git config --global user.name "Liming Wang"
+git config --global user.email "lmwang@gmail.com"
+git config --global color.ui "auto"
